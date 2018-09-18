@@ -11,6 +11,7 @@
         <module name="MsNbc" />
         <module name="Mta" />
         <module name="NYP" />
+        <module name="NYP1" />
       </profile>
     </annotationProcessing>
   </component>
