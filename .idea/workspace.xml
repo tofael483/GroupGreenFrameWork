@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f6c9c0c2-0c17-4621-8072-30d1964da283" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/BestBuyRetail.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyRetail/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BestBuyStore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ecommerce/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../automateWeb/Generic/Driver/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Common+Java+Exceptions.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Git Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Git Pull Commands_ahmed.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 010.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 011.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 013.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 014.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/GoToTraining 015.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/HashMap in Java.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Home Work 5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Home Work5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Intellij Tutorial.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java ArrayList vs LinkedList.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring .docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Java Mentoring by Asif 3702NY (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Mentoring Topics.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Nested Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Portfolio 7_18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Pull Command.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 6.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 7 question.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 7th.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 8th.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Quiz 9.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Portfolio 7_18.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.15 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.29 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 11.07.34 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.15.36 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.02 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.20 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.37 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.45 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.16.54 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.17.06 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.14 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.20 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.26 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.18.50 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.19.04 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot /Screen Shot 2018-08-24 at 12.19.16 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-25 at 11.49.18 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-26 at 11.08.43 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Screen Shot 2018-08-26 at 11.18.59 AM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Singleton Class (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Singleton Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Terminal command -Last login.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/Test Scenarios - Boot Camp 2018 (1).xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/_tower-git-client.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/bourbon-bitters-neat/bourbon-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/command-line/CLI-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git-for-subversion-users/git-for-subversion-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-AR-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-CN-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-DE-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-EN-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-dark.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-grey.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/git/git-cheatsheet-PT-white.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/website-optimization/website_optimization-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/workflow-of-version-control/workflow-of-version-control.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/cheat-sheet-bundle/xcode/xcode-cheat-sheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/data_structures_and_algorithms copy.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/gitcheat-1200x-top.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/Encap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/MainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/MotorCar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/Toyota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/oop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/bin/homework4/oop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/Encap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/MainTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/MotorCar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/Toyota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/oop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/homework4/src/homework4/oop2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/jahidul Java Note.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/project10" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../All file/thank-you.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Asif image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DatabaseConnection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GITHUB Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git Push Commands.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Git commands udemy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 000.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 001.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 002.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 004.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 005.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 006.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 007.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 008.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GoToTraining 009.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gti Hub Commands -Asif (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gti Hub Commands -Asif.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Home Work5.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Jahid Class.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Mentoring 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mentoring Topics new1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidTermAsif_3702NY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz (Autosaved).docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz 1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz 2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterm Quiz.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MidtermJuly17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/CodingExamMarch2018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/driver/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/lib/testng-6.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/Numbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/algorithm/UnitTestSorting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/UnitTestConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/databases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/FortuneEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/Months.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Fibonacci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/LowestNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/MakePyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/math/UnitTestingMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/XmlReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Anagram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/DuplicateWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/Permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/problems/UnitTestingStringProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/out/production/CodingExamMarch2018/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/ConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/UnitTestConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/databases/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/FortuneEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/FindMissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/LowestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/MakePyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/math/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/ProcessStudentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/UnitTestingStudentProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/XmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/DuplicateWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/Permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/problems/UnitTestingStringProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master 2/src/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/mongoSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/CodingExamMarch2018.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/_gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/driver/mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/lib/testng-6.8.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/UnitTestConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/databases/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/datastructure/UseQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo$DateConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/EmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/FortuneEmployee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/Months.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/design/UnitTestingEmployeeInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/Factorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/FindMissingNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/MakePyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/math/UnitTestingMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/ProcessStudentInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/UnitTestingStudentProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/XmlReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/problems/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/problems/UnitTestingStringProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/out/production/CodingExamMarch2018/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/Numbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/Sort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/algorithm/UnitTestSorting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/data/self-driving-car" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/ConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/UnitTestConnectDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/databases/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/DataReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseMap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/datastructure/UseQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/definition/core-java-conceptual-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/definition/data-structure-questions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/EmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/FortuneEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/Months.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/design/UnitTestingEmployeeInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Factorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Fibonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/FindMissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/LowestNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/MakePyramid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/PrimeNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/math/UnitTestingMath.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/ProcessStudentInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/UnitTestingStudentProfile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/XmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/qtp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/parser/selenium.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Anagram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/DuplicateWord.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/Permutation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/problems/UnitTestingStringProblem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/MidtemMarch2018-master/src/secret.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Midterms/_DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 1 Jahid.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 2 jahid.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Screen Shot 2018-09-05 at 7.09.07 PM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../To learning TestNg.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gittest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mongo-java-driver-3.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql-connector-java-5.1.41-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mysql-connector-java-6.0.6-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testng-6.8.7.jar" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Generic/target/" />
+    <ignored path="$PROJECT_DIR$/ExpediaHomePage/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-395117559">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1145" />
+          <entry key="xml" value="125" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1145" />
+          <entry key="XML" value="125" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+          <entry key="xml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExpediaHomePage/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/SearchPageFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#781#782#0" expanded="true" />
+                <element signature="e#832#833#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestCase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#390#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestHomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Generic/pom.xml" />
+        <option value="$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestCase.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/ExpediaHomePage/pom.xml" />
+        <option value="$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/SearchPageFactory.java" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Expedia" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Generic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-114" />
+    <option name="y" value="36" />
+    <option name="width" value="1239" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Expedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Expedia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Expedia" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Expedia" type="462c0819:PsiDirectoryNode" />
+              <item name="ExpediaHomePage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537414814663" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/driver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestHomePage.test">
+    <configuration name="CommonAPI.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Generic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="base" />
+      <option name="MAIN_CLASS_NAME" value="base.CommonAPI" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchPageFactory.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ExpediaHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="search" />
+      <option name="MAIN_CLASS_NAME" value="search.SearchPageFactory" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ExpediaHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="search" />
+      <option name="MAIN_CLASS_NAME" value="search.TestCase" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHomePage.test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ExpediaHomePage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="search" />
+      <option name="MAIN_CLASS_NAME" value="search.TestHomePage" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.CommonAPI.test" />
+      <item itemvalue="TestNG.TestCase.test" />
+      <item itemvalue="TestNG.TestHomePage.test" />
+      <item itemvalue="TestNG.SearchPageFactory.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestHomePage.test" />
+        <item itemvalue="TestNG.SearchPageFactory.test" />
+        <item itemvalue="TestNG.CommonAPI.test" />
+        <item itemvalue="TestNG.TestCase.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f6c9c0c2-0c17-4621-8072-30d1964da283" name="Default Changelist" comment="" />
+      <created>1537389089070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537389089070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CommonAPI_test - 2018.09.19 at 20h 49m 58s.xml">
+      <configuration name="CommonAPI.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestCase_test - 2018.09.19 at 21h 18m 01s.xml">
+      <configuration name="TestCase.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="CommonAPI_test - 2018.09.19 at 21h 57m 40s.xml">
+      <configuration name="CommonAPI.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_test - 2018.09.19 at 22h 42m 39s.xml">
+      <configuration name="TestHomePage.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_test - 2018.09.19 at 22h 44m 37s.xml">
+      <configuration name="TestHomePage.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_test - 2018.09.19 at 22h 55m 52s.xml">
+      <configuration name="TestHomePage.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_test - 2018.09.19 at 23h 03m 01s.xml">
+      <configuration name="TestHomePage.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchPageFactory_test - 2018.09.19 at 23h 29m 16s.xml">
+      <configuration name="SearchPageFactory.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SearchPageFactory_test - 2018.09.19 at 23h 31m 12s.xml">
+      <configuration name="SearchPageFactory.test" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestHomePage_test - 2018.09.19 at 23h 32m 14s.xml">
+      <configuration name="TestHomePage.test" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-114" y="36" width="1239" height="807" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.25730994" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5010352" side_tool="true" weight="0.29961088" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32587412" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32587412" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Mongo Explorer" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32915622" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="40" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpediaHomePage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/SearchPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="17" column="16" lean-forward="true" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Expedia</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
