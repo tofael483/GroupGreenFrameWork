@@ -119,6 +119,7 @@
       <change beforePath="$PROJECT_DIR$/../All file/thank-you.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Asif image2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../DatabaseConnection" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../GITHUB Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git Push Commands.docx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Git commands udemy.docx" beforeDir="false" />
@@ -445,11 +446,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -512,9 +510,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-46" />
-    <option name="y" value="65" />
-    <option name="width" value="766" />
+    <option name="x" value="106" />
+    <option name="y" value="29" />
+    <option name="width" value="760" />
     <option name="height" value="807" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -544,7 +542,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537415060677" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537416812240" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -701,10 +699,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-46" y="65" width="766" height="807" extended-state="0" />
-    <editor active="true" />
+    <frame x="106" y="29" width="760" height="807" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896482" weight="0.25730994" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49896482" visible="true" weight="0.2562674" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -792,11 +789,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ExpediaHomePage/src/test/java/search/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="46" lean-forward="true" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="47" lean-forward="true" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
         </state>
       </provider>
     </entry>
